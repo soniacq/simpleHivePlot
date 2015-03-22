@@ -5,11 +5,11 @@ Below is a screenshot of a hive plot made using a test data set of Boolean expre
 
 ![example plot](http://i.imgur.com/Rb2zjDG.png?1)
 
-Description
+# Description
 
 Using D3.js.
 
-How To
+# How To
 
 git clone git@github.com:maxdemarzi/hive_plot.git
 cd hive_plot
@@ -17,6 +17,6 @@ cd hive_plot
 rackup
 Then visit http://localhost:63342/gistdemo/index.html to see the examples.
 
-Links
+#  Links
 
 D3.js
