@@ -5,18 +5,14 @@ Below is a screenshot of a hive plot made using a test data set of Boolean expre
 
 ![example plot](http://i.imgur.com/Rb2zjDG.png?1)
 
-# Description
+# Technologies Used
 
-Using D3.js.
+1. HTML5
+2. CSS
+3. JS
+4. D3.js
 
-# How To
+=== Links
 
-git clone git@github.com:maxdemarzi/hive_plot.git
-cd hive_plot
-
-rackup
-Then visit http://localhost:63342/gistdemo/index.html to see the examples.
-
-#  Links
-
-D3.js
+* {D3.js}[http://mbostock.github.com/d3/]
+* {Hive Plots}[http://egweb.bcgsc.ca/]
