@@ -1,4 +1,3 @@
 # simpleHivePlot
-Visualizing Networks with Hive Plots. This hive plot, a type of node-link diagram, shows the dependency graph of a simple model.
+Visualizing Networks with Hive Plots. This hive plot, a type of node-link diagram, shows the dependency graph of a model in Cell Collective.
 
-Model data.
