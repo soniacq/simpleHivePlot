@@ -12,7 +12,7 @@ Below is a screenshot of a hive plot made using a test data set of Boolean expre
 3. JS
 4. D3.js
 
-=== Links
+# Links
 
 * {D3.js}[http://mbostock.github.com/d3/]
 * {Hive Plots}[http://egweb.bcgsc.ca/]
